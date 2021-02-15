@@ -11,7 +11,7 @@ export class AppComponent {
       title: 'Neat Tree',
       imageUrl: 'assets/images/tree.jpeg',
       username: 'nature',
-      content: 'I saw this awesome tree during my hike today',
+      content: 'I saw this awesome tree today',
     },
     {
       title: 'Snowy Mountain',
@@ -24,6 +24,13 @@ export class AppComponent {
       imageUrl: 'assets/images/biking.jpeg',
       username: 'biking1234',
       content: 'I did some biking today',
+    },
+    {
+      title: 'spaceships',
+      imageUrl:
+        'https://wallup.net/wp-content/uploads/2019/09/07/169150-eve-online-sci-fi-game-spaceship-748x421.jpg',
+      username: 'EveFan07',
+      content: 'A dreadnaught from Eve Online',
     },
   ];
 }
